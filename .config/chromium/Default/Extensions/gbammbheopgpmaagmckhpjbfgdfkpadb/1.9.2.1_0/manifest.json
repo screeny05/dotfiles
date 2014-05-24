@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "xmltree.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Displays XML data in a user friendly way.",
+   "icons": {
+      "128": "XML128.png",
+      "48": "XML48.png"
+   },
+   "intents": {
+      "http://webintents.org/view": [ {
+         "disposition": "window",
+         "href": "intent.html",
+         "title": "XML Tree",
+         "type": [ "application/atom+xml", "application/rss+xml" ]
+      } ]
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCm5gelXZ7g6xo6JkNItLcB+cXkRI1bI73YWQgu+wu6T2YkfDxGTD3DeOYb3dKeA23bHnVnopAOfmW7vWsGE05iU1WasrQ7d6u6+dJfjPT6vB7DrUUrvPxPuPYtbtrH8JjYZGiLC1eUM3k/v3Bg1cnECoTGSUAXsmJxVzmjL1yXeQIDAQAB",
+   "manifest_version": 2,
+   "name": "XML Tree",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*", "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.9.2.1",
+   "web_accessible_resources": [ "utils.js", "options.js" ]
+}

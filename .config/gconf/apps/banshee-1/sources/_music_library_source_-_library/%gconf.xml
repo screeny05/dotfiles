@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="library-location" mtime="1400530278" type="string">
+		<stringvalue>/home/screeny/Music</stringvalue>
+	</entry>
+	<entry name="expanded" mtime="1400692823" type="bool" value="true"/>
+	<entry name="move-on-info-save" mtime="1400530188" type="bool" value="false"/>
+	<entry name="copy-on-import" mtime="1400530188" type="bool" value="false"/>
+</gconf>

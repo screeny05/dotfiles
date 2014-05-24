@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Terminal hier öffnen</name>
+	<unique-id>1400365856681007-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Beispiel für eine eigene Aktion</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Bash</name>
+	<unique-id>1400375099171310-6</unique-id>
+	<command>xterm -e /bin/bash</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<text-files/>
+</action>
+</actions>

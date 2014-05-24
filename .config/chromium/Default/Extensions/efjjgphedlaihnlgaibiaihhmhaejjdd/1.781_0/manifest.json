@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_globs": [ "http://*.facebook.com/ai.php*", "http://*.facebook.com/xti.php*", "http://*.facebook.com/l.php*", "http://*.facebook.com/sound_iframe.php*", "http://*.facebook.com/ajax/*", "http://*.channel.facebook.com/*", "http://static.*.facebook.com/*", "http://graph.facebook.com/*", "http://0.facebook.com/*", "https://*.facebook.com/ai.php*", "https://*.facebook.com/xti.php*", "https://*.facebook.com/l.php*", "https://*.facebook.com/sound_iframe.php*", "https://*.facebook.com/ajax/*", "https://*.channel.facebook.com/*", "https://s-static.*.facebook.com/*", "https://graph.facebook.com/*", "https://0.facebook.com/*", "https://paste.little.my/*" ],
+      "include_globs": [ "http://*.facebook.com/*", "http://facebook.com/*", "https://*.facebook.com/*", "https://facebook.com/*", "http://*.little.my/*", "https://*.little.my/*" ],
+      "js": [ "ponyhoof.user.js" ],
+      "matches": [ "http://*.facebook.com/*", "https://*.facebook.com/*", "http://*.little.my/*", "https://*.little.my/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Ponify Facebook and make it 20% cooler!",
+   "homepage_url": "http://ponyhoof.little.my",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDuaW8rCstf1AxRf/XUY2TXKO5xFU4W1xjZ2tKQ+iiDnrYOyp7mCcz03BMdWuSD2p3WzYnS/dWDng2PciuvnH1R7jOTQFIAVm19zQhL8v7PWKXq0B4wPrFFsYOT74jGRP01yLfpBGHPWQDx8SIuRJjYS1LW40zMMO0AGLICHrlNiQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0.0.0",
+   "name": "Ponyhoof",
+   "options_page": "crx_options.htm",
+   "permissions": [ "http://*.facebook.com/*", "https://*.facebook.com/*", "http://*.little.my/*", "https://*.little.my/*", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.781"
+}

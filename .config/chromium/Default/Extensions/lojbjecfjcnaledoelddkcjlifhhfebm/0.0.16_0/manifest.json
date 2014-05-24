@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/32.png",
+      "default_popup": "popup.html",
+      "default_title": "Premiumize.me"
+   },
+   "description": "Premiumize.me extension for Google Chrome/Chromium",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXmNU+ZT1AcfN3fBU4rX47utfBnqERUHgyCVNnvl108ZVHxnr15/r3tZSosmA/Q98duz1pTf/YIV1JY55wJQZSrIIjxbfmthsf9ukmR59OfSQiphVE4y/jsqQUxgLYqmjW+B3ofR42XryjQsD6LaO1iqxtNB5Ou0ijcnujNlUpBwIDAQAB",
+   "manifest_version": 2,
+   "name": "Premiumize.me",
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>", "proxy", "*://*/*", "unlimitedStorage", "background" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.16"
+}

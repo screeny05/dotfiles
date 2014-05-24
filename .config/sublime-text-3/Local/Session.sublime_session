@@ -1,0 +1,378 @@
+{
+	"folder_history":
+	[
+		"/home/screeny/Scripts"
+	],
+	"last_version": 3059,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/screeny/cairo-compmgr-git/PKGBUILD",
+				"/home/screeny/.config/openbox/autostart.sh",
+				"/home/screeny/cairo-compmgr-git/0001-libiberty.patch",
+				"/home/screeny/Scripts/feh_browser.sh",
+				"/home/screeny/cairo-compmgr-git/0002-vapi.patch",
+				"/home/screeny/.config/openbox/menu.xml",
+				"/home/screeny/.config/Thunar/uca.xml",
+				"/home/screeny/.config/Thunar/accels.scm",
+				"/tmp/yaourt-tmp-screeny/aur-cairo-compmgr-git/PKGBUILD",
+				"/home/screeny/.cache/.fr-2FV4aI/sublime_text_3/sublime.py",
+				"/home/screeny/.cache/.fr-Q1vEbN/sublime_text_3/sublime_text.desktop"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n      <!-- font size in points -->",
+					"\n      <!-- 'bold' or 'normal' -->",
+					"\n      <!-- 'italic' or 'normal' -->"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "# November Slim Theme 0.7\n# Created by Arthur Marino (@ArthurMarino)\n# URL: http://artt-m.deviantart.com/\n\n# Messages (ie: shutdown)\nmsg_color               #ffffff\nmsg_font                DejaVu Sans:size=10\nmsg_x                   20\nmsg_y                   20\nmsg_shadow_color #000000\nmsg_shadow_xoffset 1\nmsg_shadow_yoffset 1\n\n# valid values: stretch, tile\nbackground_style        center\nbackground_color        #30495E\n\n# Login Name\nusername_font		Droid Sans:size=13\nusername_color		#ffffff\n\npassword_x		50%\npassword_y		78%\n\nusername_x		50%\nusername_y		79%\n\nusername_msg		Log-in\npassword_msg		Screeny\n\n# Input controls\ninput_panel_x           50%\ninput_panel_y           50%\n\ninput_name_x            50\ninput_name_y            251\ninput_pass_x            50\ninput_pass_y            251\n\ninput_font              Verdana:size=15\ninput_color		#98a0a7\n",
+					"file": "/home/screeny/.cache/.fr-GVxo7F/November/slim.theme",
+					"file_size": 859,
+					"file_write_time": 129922336540000000,
+					"settings":
+					{
+						"buffer_size": 853,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/screeny/Downloads/nanorc",
+				"/home/screeny/.wine/dosdevices/d:/.windows-serial",
+				"/home/screeny/Scripts/feh_browser.sh",
+				"/home/screeny/.config/openbox/autostart.sh",
+				"/home/screeny/[2014] Sabaton - Heroes/Sabaton - Heroes.mp3.m3u",
+				"/home/screeny/cairo-compmgr-git/PKGBUILD",
+				"/home/screeny/cairo-compmgr-git/0001-libiberty.patch",
+				"/home/screeny/cairo-compmgr-git/0002-vapi.patch",
+				"/home/screeny/.config/openbox/menu.xml",
+				"/home/screeny/.config/Thunar/uca.xml",
+				"/home/screeny/.config/Thunar/accels.scm",
+				"/tmp/yaourt-tmp-screeny/aur-cairo-compmgr-git/PKGBUILD",
+				"/home/screeny/.cache/.fr-2FV4aI/sublime_text_3/sublime.py",
+				"/home/screeny/.cache/.fr-Q1vEbN/sublime_text_3/sublime_text.desktop"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n      <!-- font size in points -->",
+					"\n      <!-- 'bold' or 'normal' -->",
+					"\n      <!-- 'italic' or 'normal' -->"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/screeny/Scripts"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/screeny/.cache/.fr-GVxo7F/November/slim.theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 853,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										360,
+										360
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,0,937,794,1417,4000,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

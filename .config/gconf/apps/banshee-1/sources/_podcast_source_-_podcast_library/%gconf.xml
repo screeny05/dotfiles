@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="expanded" mtime="1400530189" type="bool" value="true"/>
+	<entry name="library-location" mtime="1400530189" type="string">
+		<stringvalue>/home/screeny/Podcasts</stringvalue>
+	</entry>
+</gconf>
