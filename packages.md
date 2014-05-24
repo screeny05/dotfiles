@@ -1,6 +1,6 @@
 # incomplete
 
-wpa_supplicant
+* wpa_supplicant
 * netctl
 * iproute2
 * alsa-utils
