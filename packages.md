@@ -31,6 +31,8 @@
 * udev
 * udev-notify-bzr
 * file-roller
+* unzip
+* htop
 
 ## runtime
 * python
@@ -40,6 +42,7 @@
 ## terminal stuff
 * git
 * svn
+* bzr
 * terminator
 * zsh
 * oh-my-zsh
@@ -67,6 +70,28 @@
 * chromium-pepper-flash
 * compton-git
 * compton-conf-git
+* wine-pipelight
+
+## misc devstuff
+* colordiff
+* kompare
+* atom
+* apache2
+* php5
+* gftp
+* gimp
+* virtualbox
+
+# packages php
+* php5-curl
+* php5-dev
+* php5-imagick
+* php5-imap
+* php5-json
+* php5-mcrypt
+* php5-snmp
+* php5-svn
+* php5-xmlrpc
 
 # packages - atom
 * docblockr
