@@ -1,45 +1,55 @@
 # packages / system
 
+## core
 * wpa_supplicant
 * netctl
 * iproute2
 * alsa-utils
+* ntfs-3g
+* sudo
+* nano
+* slim
+* slimlock
+* openssh
 
+## dm
 * openbox
 * dmenu
 * tint2
 * conky
 
+## basic app
 * chromium
 * vlc
 * volumeicon
-* ntfs-3g
 * truecrypt
 * notify-osd
 * libnotify
 * yaourt
+* thunar
+* thunar-volman
+* udev
+* udev-notify-bzr
+* file-roller
 
+## runtime
 * python
 * nodejs
+* ruby
 
+## terminal stuff
 * git
 * svn
 * terminator
 * zsh
 * oh-my-zsh
 
+## misc app
 * pyload
 * feh
 * asunder
-* thunar
-* thunar-volman
 * ffmpeg
 * ffmpegthumbnailer
-* file-roller
-* udev
-* udev-notify-bzr
-* slim
-* slimlock
 * playerctl
 * obconf
 * lxappearance
@@ -48,8 +58,6 @@
 * gvfs
 * gvfs-gphoto2
 * gvfs-smb
-* sudo
-* nano
 * downgrade
 * joystick
 * sublime-text-dev
@@ -59,7 +67,6 @@
 * chromium-pepper-flash
 * compton-git
 * compton-conf-git
-* openssh
 
 # packages - atom
 * docblockr
@@ -74,3 +81,8 @@
 * minimap
 * minimap-highlight-selected
 * bracket-matcher
+
+# packages - ruby gems
+* compass
+
+# packages - node
