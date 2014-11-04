@@ -1,1 +1,0 @@
-var timeShift=function(){document.documentElement.setAttribute("data-ponyhoof-hour",(new Date).getHours())};timeShift();setInterval(timeShift,6E4);

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="show_artist_filter" mtime="1400530593" type="bool" value="true"/>
-	<entry name="position" mtime="1400530563" type="string">
-		<stringvalue>top</stringvalue>
-	</entry>
-	<entry name="visible" mtime="1400530559" type="bool" value="true"/>
-</gconf>
