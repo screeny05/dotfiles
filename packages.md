@@ -70,6 +70,7 @@
 * chromium-pepper-flash
 * compton-git
 * compton-conf-git
+* wine-pipelight
 
 ## misc devstuff
 * colordiff
