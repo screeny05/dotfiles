@@ -1,13 +1,15 @@
-# incomplete
+# packages / system
 
 * wpa_supplicant
 * netctl
 * iproute2
 * alsa-utils
+
 * openbox
 * dmenu
 * tint2
-* nvidia
+* conky
+
 * chromium
 * vlc
 * volumeicon
@@ -16,14 +18,17 @@
 * notify-osd
 * libnotify
 * yaourt
+
 * python
 * nodejs
+
 * git
+* svn
+* terminator
 * zsh
 * oh-my-zsh
-* conky
+
 * pyload
-* terminator
 * feh
 * asunder
 * thunar
@@ -55,3 +60,17 @@
 * compton-git
 * compton-conf-git
 * openssh
+
+# packages - atom
+* docblockr
+* file-icons
+* less-than-slash
+* editorconfig
+* language-html-swig
+* language-smarty-php
+* neutron-ui
+* neutron-syntax
+* highlight-selected
+* minimap
+* minimap-highlight-selected
+* bracket-matcher
