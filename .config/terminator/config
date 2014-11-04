@@ -1,18 +1,74 @@
 [global_config]
   enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
   handle_size = 1
+  suppress_multiple_term_dialog = True
 [keybindings]
 [profiles]
+  [[solarized-dark]]
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    background_image = None
+    use_system_font = False
+    cursor_color = "#eee8d5"
+    foreground_color = "#eee8d5"
+    font = Terminus 12
+    background_color = "#002b36"
+  [[monokai]]
+    palette = "#000000:#f92672:#6cc72c:#fe9720:#5f91ef:#9358fe:#36af90:#8c8c8c:#4c4c4c:#ff80f4:#a7e22e:#ffee99:#5fd9ef:#ae82fe:#66efd5:#c7cece"
+    background_image = None
+    background_darkness = 0.76
+    background_type = transparent
+    use_system_font = False
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    cursor_shape = underline
+    font = DejaVu Sans Mono 10
+    background_color = "#0d0d0d"
+    scrollback_infinite = True
+  [[Monokai-like]]
+    palette = "#333333:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#000000:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2"
+    background_image = None
+    background_darkness = 0.44
+    use_system_font = False
+    foreground_color = "#f2f2f2"
+    font = Terminus 12
+  [[solarized-light]]
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    background_image = None
+    use_system_font = False
+    cursor_color = "#002b36"
+    foreground_color = "#002b36"
+    font = Terminus 12
+    background_color = "#eee8d5"
   [[default]]
     scrollbar_position = hidden
-    background_image = None
+    palette = "#000000:#f92672:#6cc72c:#fe9720:#5f91ef:#9358fe:#36af90:#8c8c8c:#4c4c4c:#ff80f4:#a7e22e:#ffee99:#5fd9ef:#ae82fe:#66efd5:#c7cece"
+    background_image = /home/slanger/Bilder/Numix_Halloween_16_9_small.jpg
+    background_darkness = 0.79
     background_type = transparent
-    scrollback_infinite = True
+    use_system_font = False
+    cursor_color = "#eee8d5"
+    scroll_background = False
     show_titlebar = False
+    font = Droid Sans Mono Awesome 11
+    background_color = "#201e13"
+    foreground_color = "#d9e6f2"
+    scrollback_infinite = True
+  [[4bit-1413475588981]]
+    scrollbar_position = hidden
+    palette = "#270c22:#c7525b:#60ac68:#baac5b:#6e44c2:#c744b4:#609ec2:#d5b9cf:#40243b:#e3a7b7:#bdc8bd:#dfc8b7:#c3a1de:#e3a1d9:#bdc3de:#e3c7dd"
+    background_image = None
+    background_darkness = 0.89
+    use_system_font = False
+    scroll_background = False
+    show_titlebar = False
+    font = Source Code Pro for Powerline 11
+    background_color = "#11290a"
+    foreground_color = "#efdced"
+    scrollback_infinite = True
 [layouts]
   [[default]]
     [[[child1]]]
-      profile = default
+      profile = default-2
       type = Terminal
       parent = window0
     [[[window0]]]
