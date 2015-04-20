@@ -12,6 +12,21 @@
     foreground_color = "#eee8d5"
     font = Terminus 12
     background_color = "#002b36"
+  [[solarized-light]]
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    background_image = None
+    use_system_font = False
+    cursor_color = "#002b36"
+    foreground_color = "#002b36"
+    font = Terminus 12
+    background_color = "#eee8d5"
+  [[Monokai-like]]
+    palette = "#333333:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#000000:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2"
+    background_image = None
+    background_darkness = 0.44
+    use_system_font = False
+    foreground_color = "#f2f2f2"
+    font = Terminus 12
   [[monokai]]
     palette = "#000000:#f92672:#6cc72c:#fe9720:#5f91ef:#9358fe:#36af90:#8c8c8c:#4c4c4c:#ff80f4:#a7e22e:#ffee99:#5fd9ef:#ae82fe:#66efd5:#c7cece"
     background_image = None
@@ -24,22 +39,20 @@
     font = DejaVu Sans Mono 10
     background_color = "#0d0d0d"
     scrollback_infinite = True
-  [[Monokai-like]]
-    palette = "#333333:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#000000:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2"
-    background_image = None
-    background_darkness = 0.44
-    use_system_font = False
-    foreground_color = "#f2f2f2"
-    font = Terminus 12
-  [[solarized-light]]
-    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
-    background_image = None
-    use_system_font = False
-    cursor_color = "#002b36"
-    foreground_color = "#002b36"
-    font = Terminus 12
-    background_color = "#eee8d5"
   [[default]]
+    scrollbar_position = hidden
+    palette = "#1d1f21:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6:#969896:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#ffffff"
+    font = Droid Sans Mono Awesome 11
+    background_image = None
+    use_system_font = False
+    cursor_color = "#969896"
+    foreground_color = "#c5c8c6"
+    show_titlebar = False
+    copy_on_selection = True
+    background_color = "#1d1f21"
+    allow_bold = False
+    scrollback_infinite = True
+  [[Numix-Old]]
     scrollbar_position = hidden
     palette = "#000000:#f92672:#6cc72c:#fe9720:#5f91ef:#9358fe:#36af90:#8c8c8c:#4c4c4c:#ff80f4:#a7e22e:#ffee99:#5fd9ef:#ae82fe:#66efd5:#c7cece"
     background_image = /home/slanger/Bilder/Numix_Halloween_16_9_small.jpg
@@ -65,6 +78,30 @@
     background_color = "#11290a"
     foreground_color = "#efdced"
     scrollback_infinite = True
+  [[Base16 Railscasts Dark]]
+    palette = "#2b2b2b:#da4939:#a5c261:#ffc66d:#6d9cbe:#b6b3eb:#519f50:#e6e1dc:#5a647e:#da4939:#a5c261:#ffc66d:#6d9cbe:#b6b3eb:#519f50:#f9f7f3"
+    background_image = None
+    cursor_color = "#e6e1dc"
+    foreground_color = "#e6e1dc"
+    copy_on_selection = True
+    background_color = "#2b2b2b"
+    allow_bold = False
+  [[Base16 Railscasts Light]]
+    palette = "#f9f7f3:#da4939:#a5c261:#ffc66d:#6d9cbe:#b6b3eb:#519f50:#e6e1dc:#5a647e:#da4939:#a5c261:#ffc66d:#6d9cbe:#b6b3eb:#519f50:#2b2b2b"
+    background_image = None
+    cursor_color = "#3a4055"
+    foreground_color = "#3a4055"
+    copy_on_selection = True
+    background_color = "#f9f7f3"
+    allow_bold = False
+  [[Base16 Tomorrow Light]]
+    palette = "#ffffff:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#c5c8c6:#969896:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#1d1f21"
+    background_image = None
+    cursor_color = "#373b41"
+    foreground_color = "#373b41"
+    copy_on_selection = True
+    background_color = "#ffffff"
+    allow_bold = False
 [layouts]
   [[default]]
     [[[child1]]]
